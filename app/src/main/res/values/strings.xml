@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">movieApp</string>
+    <string name="title_activity_home">Home</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="desc">Elisa is a mute isolated woman whow works as a cleaning lady in a hidden, high-security government laboratory in 1962 baltimore. her like changes foreever when she meets Michael.</string>
+
+</resources>

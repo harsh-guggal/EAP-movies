@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--XML implementation of Card Layout-->
+<androidx.cardview.widget.CardView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_gravity="center"
+    app:cardCornerRadius="10dp"
+    app:cardElevation="15dp"
+    >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="horizontal">
+
+        <ImageView
+            android:id="@+id/news_image"
+            android:layout_width="190dp"
+            android:layout_height="250dp"
+            android:scaleType="centerInside"
+            app:srcCompat="@drawable/third" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/news_title"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="8dp"
+                android:gravity="center"
+                android:text="Black Panther's review: A sleek Marvel of a singly superhero"
+                android:textColor="#000000"
+                android:textSize="14sp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/news_desc"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingLeft="8dp"
+                android:paddingTop="5dp"
+                android:paddingBottom="5dp"
+                android:text="black panther, colloquial term used to refer to large felines classified in the genus Panthera that are characterized by a coat of black fur or large concentrations of black spots set against a dark background." />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_margin="10dp"
+                android:gravity="center|right"
+                android:orientation="horizontal">
+
+                <Button
+                    android:id="@+id/read_more"
+                    android:layout_width="160dp"
+                    android:layout_height="48dp"
+                    android:background="@drawable/buttonshape"
+                    android:text="Read More"
+                    android:textAllCaps="false"
+                    app:backgroundTint="#FF411A" />
+            </LinearLayout>
+
+        </LinearLayout>
+    </LinearLayout>
+</androidx.cardview.widget.CardView>

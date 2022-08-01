@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/6th Semester/Synopsis Project 1/ERPMovies/app/src/main/res/drawable/buttonshape.xml" value="0.19166666666666668" />
+        <entry key="..\:/6th Semester/Synopsis Project 1/ERPMovies/app/src/main/res/drawable/editShape.xml" value="0.19166666666666668" />
+        <entry key="..\:/6th Semester/Synopsis Project 1/ERPMovies/app/src/main/res/drawable/editshape.xml" value="0.19166666666666668" />
+        <entry key="..\:/6th Semester/Synopsis Project 1/ERPMovies/app/src/main/res/drawable/formformat.xml" value="0.19166666666666668" />
+        <entry key="..\:/6th Semester/Synopsis Project 1/ERPMovies/app/src/main/res/layout/activity_card_details.xml" value="0.11385135135135135" />
+        <entry key="..\:/6th Semester/Synopsis Project 1/ERPMovies/app/src/main/res/layout/activity_date_time_selection.xml" value="0.11385135135135135" />
+        <entry key="..\:/6th Semester/Synopsis Project 1/ERPMovies/app/src/main/res/layout/activity_email_verification.xml" value="0.16666666666666666" />
+        <entry key="..\:/6th Semester/Synopsis Project 1/ERPMovies/app/src/main/res/layout/activity_home.xml" value="0.11085526315789473" />
+        <entry key="..\:/6th Semester/Synopsis Project 1/ERPMovies/app/src/main/res/layout/activity_how_many_tickets.xml" value="0.10472972972972973" />
+        <entry key="..\:/6th Semester/Synopsis Project 1/ERPMovies/app/src/main/res/layout/activity_log_in.xml" value="0.16666666666666666" />
+        <entry key="..\:/6th Semester/Synopsis Project 1/ERPMovies/app/src/main/res/layout/activity_main.xml" value="0.14666666666666667" />
+        <entry key="..\:/6th Semester/Synopsis Project 1/ERPMovies/app/src/main/res/layout/activity_movie_deatils.xml" value="0.11385135135135135" />
+        <entry key="..\:/6th Semester/Synopsis Project 1/ERPMovies/app/src/main/res/layout/activity_movie_details.xml" value="0.11385135135135135" />
+        <entry key="..\:/6th Semester/Synopsis Project 1/ERPMovies/app/src/main/res/layout/activity_payment_form.xml" value="0.11385135135135135" />
+        <entry key="..\:/6th Semester/Synopsis Project 1/ERPMovies/app/src/main/res/layout/activity_payment_successful.xml" value="0.11385135135135135" />
+        <entry key="..\:/6th Semester/Synopsis Project 1/ERPMovies/app/src/main/res/layout/activity_seat_selection.xml" value="0.11385135135135135" />
+        <entry key="..\:/6th Semester/Synopsis Project 1/ERPMovies/app/src/main/res/layout/activity_sign_up.xml" value="0.13333333333333333" />
+        <entry key="..\:/6th Semester/Synopsis Project 1/ERPMovies/app/src/main/res/layout/activity_theater_selection.xml" value="0.11385135135135135" />
+        <entry key="..\:/6th Semester/Synopsis Project 1/ERPMovies/app/src/main/res/layout/card_item1.xml" value="0.14666666666666667" />
+        <entry key="..\:/6th Semester/Synopsis Project 1/ERPMovies/app/src/main/res/layout/card_item2.xml" value="0.11085526315789473" />
+        <entry key="..\:/6th Semester/Synopsis Project 1/ERPMovies/app/src/main/res/layout/card_item3.xml" value="0.5" />
+        <entry key="..\:/6th Semester/Synopsis Project 1/ERPMovies/app/src/main/res/layout/card_item4.xml" value="0.14666666666666667" />
+        <entry key="..\:/6th Semester/Synopsis Project 1/ERPMovies/app/src/main/res/layout/card_layout5.xml" value="0.11385135135135135" />
+        <entry key="..\:/6th Semester/Synopsis Project 1/ERPMovies/app/src/main/res/layout/card_layout6.xml" value="0.11385135135135135" />
+        <entry key="..\:/6th Semester/Synopsis Project 1/ERPMovies/app/src/main/res/layout/card_layout7.xml" value="0.11385135135135135" />
+        <entry key="..\:/6th Semester/Synopsis Project 1/ERPMovies/app/src/main/res/layout/card_layout8.xml" value="0.11385135135135135" />
+        <entry key="..\:/6th Semester/Synopsis Project 1/ERPMovies/app/src/main/res/layout/card_layout9.xml" value="0.11385135135135135" />
+        <entry key="..\:/6th Semester/Synopsis Project 1/ERPMovies/app/src/main/res/layout/fragment_dashboard.xml" value="0.11085526315789473" />
+        <entry key="..\:/6th Semester/Synopsis Project 1/ERPMovies/app/src/main/res/layout/fragment_home.xml" value="0.11085526315789473" />
+        <entry key="..\:/6th Semester/Synopsis Project 1/ERPMovies/app/src/main/res/layout/fragment_news.xml" value="0.11085526315789473" />
+        <entry key="..\:/6th Semester/Synopsis Project 1/ERPMovies/app/src/main/res/layout/fragment_notifications.xml" value="0.11085526315789473" />
+        <entry key="..\:/6th Semester/Synopsis Project 1/ERPMovies/app/src/main/res/layout/fragment_settings.xml" value="0.16666666666666666" />
+        <entry key="..\:/6th Semester/Synopsis Project 1/ERPMovies/app/src/main/res/menu/bottom_nav_menu.xml" value="0.11085526315789473" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
